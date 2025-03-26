@@ -1,0 +1,14 @@
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/bin/Debug/net9.0/easeCalculator
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/bin/Debug/net9.0/easeCalculator.deps.json
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/bin/Debug/net9.0/easeCalculator.runtimeconfig.json
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/bin/Debug/net9.0/easeCalculator.dll
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/bin/Debug/net9.0/easeCalculator.pdb
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/easeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/easeCalculator.AssemblyInfoInputs.cache
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/easeCalculator.AssemblyInfo.cs
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/easeCalculator.csproj.CoreCompileInputs.cache
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/easeCalculator.dll
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/refint/easeCalculator.dll
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/easeCalculator.pdb
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/easeCalculator.genruntimeconfig.cache
+/home/theranxe/Bureau/ApprendreC#/easeCalculator/obj/Debug/net9.0/ref/easeCalculator.dll
